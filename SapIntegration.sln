@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SapIntegration", "SapIntegration\SapIntegration.csproj", "{F9F80519-98D5-4911-9B75-B11AB82FD650}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{52E600A4-9B8A-4A2B-A0EC-2C105BA34D99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wee.SapIntegration.Application", "src\Wee.SapIntegration.Application\Wee.SapIntegration.Application.csproj", "{55D25562-2629-4510-8B13-19D22905AD04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wee.SapIntegration.Core", "src\Wee.SapIntegration.Core\Wee.SapIntegration.Core.csproj", "{D054B62A-1729-4878-AF18-812D1DB593CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wee.SapIntegration.Infrastructure", "src\Wee.SapIntegration.Infrastructure\Wee.SapIntegration.Infrastructure.csproj", "{81C8F336-1842-4EEA-A37C-302C07F8CAE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wee.SapIntegration.Shared", "src\Wee.SapIntegration.Shared\Wee.SapIntegration.Shared.csproj", "{770202F6-1A5B-4F62-802F-3ED9D741FB17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9F80519-98D5-4911-9B75-B11AB82FD650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F80519-98D5-4911-9B75-B11AB82FD650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F80519-98D5-4911-9B75-B11AB82FD650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F80519-98D5-4911-9B75-B11AB82FD650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D25562-2629-4510-8B13-19D22905AD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D25562-2629-4510-8B13-19D22905AD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D25562-2629-4510-8B13-19D22905AD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D25562-2629-4510-8B13-19D22905AD04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D054B62A-1729-4878-AF18-812D1DB593CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D054B62A-1729-4878-AF18-812D1DB593CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D054B62A-1729-4878-AF18-812D1DB593CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D054B62A-1729-4878-AF18-812D1DB593CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C8F336-1842-4EEA-A37C-302C07F8CAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C8F336-1842-4EEA-A37C-302C07F8CAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C8F336-1842-4EEA-A37C-302C07F8CAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C8F336-1842-4EEA-A37C-302C07F8CAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770202F6-1A5B-4F62-802F-3ED9D741FB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770202F6-1A5B-4F62-802F-3ED9D741FB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770202F6-1A5B-4F62-802F-3ED9D741FB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770202F6-1A5B-4F62-802F-3ED9D741FB17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{55D25562-2629-4510-8B13-19D22905AD04} = {52E600A4-9B8A-4A2B-A0EC-2C105BA34D99}
+		{D054B62A-1729-4878-AF18-812D1DB593CF} = {52E600A4-9B8A-4A2B-A0EC-2C105BA34D99}
+		{81C8F336-1842-4EEA-A37C-302C07F8CAE7} = {52E600A4-9B8A-4A2B-A0EC-2C105BA34D99}
+		{770202F6-1A5B-4F62-802F-3ED9D741FB17} = {52E600A4-9B8A-4A2B-A0EC-2C105BA34D99}
+	EndGlobalSection
+EndGlobal

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SApIntegration.API/SapIntegration.csproj": {}
+    "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.API/SapIntegration.csproj": {}
   },
   "projects": {
-    "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SApIntegration.API/SapIntegration.csproj": {
+    "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.API/SapIntegration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SApIntegration.API/SapIntegration.csproj",
+        "projectUniqueName": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.API/SapIntegration.csproj",
         "projectName": "SapIntegration",
-        "projectPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SApIntegration.API/SapIntegration.csproj",
+        "projectPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.API/SapIntegration.csproj",
         "packagesPath": "/Users/eduardomendoza/.nuget/packages/",
-        "outputPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SApIntegration.API/obj/",
+        "outputPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/eduardomendoza/.nuget/NuGet/NuGet.Config"

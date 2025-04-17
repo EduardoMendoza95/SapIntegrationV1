@@ -10,13 +10,15 @@ RUN dotnet publish "src/Wee.SapIntegration.API/Wee.SapIntegration.API.csproj" -c
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
 
-# Asegurar ICU
-RUN apt-get update && apt-get install -y --no-install-recommends libicu72 \
-    && rm -rf /var/lib/apt/lists/*
+# Habilita soporte de culturas y configura locales
+ENV DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=false
+
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends libicu72 locales && \
+    locale-gen en_US.UTF-8 && \
+    rm -rf /var/lib/apt/lists/*
 
 COPY --from=build /app/publish .
-
-ENV DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=false
 
 EXPOSE 80
 ENTRYPOINT ["dotnet", "Wee.SapIntegration.API.dll"]

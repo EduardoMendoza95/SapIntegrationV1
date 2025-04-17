@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vnNPSVIJJtY=",
+  "dgSpecHash": "3gZacoBkLFI=",
   "success": true,
-  "projectFilePath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SApIntegration.API/SapIntegration.csproj",
+  "projectFilePath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.API/SapIntegration.csproj",
   "expectedPackageFiles": [
     "/Users/eduardomendoza/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/eduardomendoza/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
