@@ -1,0 +1,12 @@
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/bin/Debug/net8.0/Wee.SapIntegration.Core.deps.json
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/bin/Debug/net8.0/Wee.SapIntegration.Core.dll
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/bin/Debug/net8.0/Wee.SapIntegration.Core.pdb
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/obj/Debug/net8.0/Wee.SapIntegration.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/obj/Debug/net8.0/Wee.SapIntegration.Core.AssemblyInfoInputs.cache
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/obj/Debug/net8.0/Wee.SapIntegration.Core.AssemblyInfo.cs
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/obj/Debug/net8.0/Wee.SapIntegration.Core.csproj.CoreCompileInputs.cache
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/obj/Debug/net8.0/Wee.SapIntegration.Core.dll
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/obj/Debug/net8.0/refint/Wee.SapIntegration.Core.dll
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/obj/Debug/net8.0/Wee.SapIntegration.Core.pdb
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/obj/Debug/net8.0/ref/Wee.SapIntegration.Core.dll
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/obj/Debug/net8.0/Wee.SapIntegration.Core.csproj.AssemblyReference.cache

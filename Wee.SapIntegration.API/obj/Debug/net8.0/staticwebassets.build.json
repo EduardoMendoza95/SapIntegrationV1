@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "swmGthc8sF8e+78MJcQvHh4soq3SBU7TRluatNQgKY4=",
+  "Source": "SapIntegration",
+  "BasePath": "_content/SapIntegration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,17 @@
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/bin/Debug/net8.0/Wee.SapIntegration.Application.deps.json
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/bin/Debug/net8.0/Wee.SapIntegration.Application.dll
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/bin/Debug/net8.0/Wee.SapIntegration.Application.pdb
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/bin/Debug/net8.0/Wee.SapIntegration.Core.dll
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/bin/Debug/net8.0/Wee.SapIntegration.Shared.dll
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/bin/Debug/net8.0/Wee.SapIntegration.Core.pdb
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/bin/Debug/net8.0/Wee.SapIntegration.Shared.pdb
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/obj/Debug/net8.0/Wee.SapIntegration.Application.csproj.AssemblyReference.cache
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/obj/Debug/net8.0/Wee.SapIntegration.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/obj/Debug/net8.0/Wee.SapIntegration.Application.AssemblyInfoInputs.cache
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/obj/Debug/net8.0/Wee.SapIntegration.Application.AssemblyInfo.cs
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/obj/Debug/net8.0/Wee.SapIntegration.Application.csproj.CoreCompileInputs.cache
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/obj/Debug/net8.0/Wee.SapI.691A3F22.Up2Date
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/obj/Debug/net8.0/Wee.SapIntegration.Application.dll
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/obj/Debug/net8.0/refint/Wee.SapIntegration.Application.dll
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/obj/Debug/net8.0/Wee.SapIntegration.Application.pdb
+/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/obj/Debug/net8.0/ref/Wee.SapIntegration.Application.dll

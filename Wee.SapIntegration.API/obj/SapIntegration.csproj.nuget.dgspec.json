@@ -1,0 +1,383 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SApIntegration.API/SapIntegration.csproj": {}
+  },
+  "projects": {
+    "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SApIntegration.API/SapIntegration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SApIntegration.API/SapIntegration.csproj",
+        "projectName": "SapIntegration",
+        "projectPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SApIntegration.API/SapIntegration.csproj",
+        "packagesPath": "/Users/eduardomendoza/.nuget/packages/",
+        "outputPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SApIntegration.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eduardomendoza/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/Wee.SapIntegration.Application.csproj": {
+                "projectPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/Wee.SapIntegration.Application.csproj"
+              },
+              "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Infrastructure/Wee.SapIntegration.Infrastructure.csproj": {
+                "projectPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Infrastructure/Wee.SapIntegration.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/Wee.SapIntegration.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/Wee.SapIntegration.Application.csproj",
+        "projectName": "Wee.SapIntegration.Application",
+        "projectPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/Wee.SapIntegration.Application.csproj",
+        "packagesPath": "/Users/eduardomendoza/.nuget/packages/",
+        "outputPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eduardomendoza/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/Wee.SapIntegration.Core.csproj": {
+                "projectPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/Wee.SapIntegration.Core.csproj"
+              },
+              "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Shared/Wee.SapIntegration.Shared.csproj": {
+                "projectPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Shared/Wee.SapIntegration.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/Wee.SapIntegration.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/Wee.SapIntegration.Core.csproj",
+        "projectName": "Wee.SapIntegration.Core",
+        "projectPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/Wee.SapIntegration.Core.csproj",
+        "packagesPath": "/Users/eduardomendoza/.nuget/packages/",
+        "outputPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eduardomendoza/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Infrastructure/Wee.SapIntegration.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Infrastructure/Wee.SapIntegration.Infrastructure.csproj",
+        "projectName": "Wee.SapIntegration.Infrastructure",
+        "projectPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Infrastructure/Wee.SapIntegration.Infrastructure.csproj",
+        "packagesPath": "/Users/eduardomendoza/.nuget/packages/",
+        "outputPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eduardomendoza/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/Wee.SapIntegration.Application.csproj": {
+                "projectPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Application/Wee.SapIntegration.Application.csproj"
+              },
+              "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/Wee.SapIntegration.Core.csproj": {
+                "projectPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Core/Wee.SapIntegration.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLServer": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Shared/Wee.SapIntegration.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Shared/Wee.SapIntegration.Shared.csproj",
+        "projectName": "Wee.SapIntegration.Shared",
+        "projectPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Shared/Wee.SapIntegration.Shared.csproj",
+        "packagesPath": "/Users/eduardomendoza/.nuget/packages/",
+        "outputPath": "/Users/eduardomendoza/Desktop/SapIntegration/src/Wee.SapIntegration.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eduardomendoza/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
